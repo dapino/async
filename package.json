@@ -6,7 +6,10 @@
   "scripts": {
     "callback": "node src/callback/index.js",
     "callback:hell": "node src/callback/callbackHell.js",
-    "promise": "node src/promise/index.js"
+    "promise": "node src/promise/index.js",
+    "promise:rick": "node src/promise/rickAndMorty.js",
+    "async": "node src/async/index.js",
+    "async:rick": "node src/async/rick.js"
   },
   "author": "",
   "license": "ISC",
